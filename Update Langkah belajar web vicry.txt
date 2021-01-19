@@ -1,7 +1,7 @@
 Front End
 1.Dasar HTML 5
 * Tag baru HTML 5 
-* menghubungkan ke HTTp
+* menghubungkan ke HTTP
 2.Dasar CSS
 * Variable pada css
 3.CSS Layout
@@ -9,8 +9,8 @@ Front End
 5.Dasar Javascript 
 
 Back End
-6."new" Phyton web
-7."new" Go-lang web (GRPc)
+6."new" Phyton dengan web
+7."new" Go-lang dengan web (GRPc)
 8.PHP
 
 Framework

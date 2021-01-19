@@ -13,10 +13,14 @@ Back End
 7."new" Go-lang web (GRPc)
 8.PHP
 
-Framework
+Framework Javascript
 1.NodeJS
-2.JSON
-3.Bootstrap
+2.vue JS
+
+Framework CSS
+Bootstrap
+
+JSON
 
 Hosting
 1.Setting CMD

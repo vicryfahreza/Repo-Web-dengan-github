@@ -1,6 +1,9 @@
 Front End
 1.Dasar HTML 5
+* Tag baru HTML 5 
+* menghubungkan ke HTTp
 2.Dasar CSS
+* Variable pada css
 3.CSS Layout
 4.CSS 3
 5.Dasar Javascript 
